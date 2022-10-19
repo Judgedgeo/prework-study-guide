@@ -2,37 +2,19 @@
 
 ## A Guide of all Guides to use for Studying
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This guide to help us to refer back to parts of the prework in order to make us more successful. As we move along the course, this will become a reference point for HTML, CSSS, GIT, and JavaScript
 
-I created this guide to help me refer back to parts of the prework in order to make me more successful. 
+# Installation
 
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## N/A
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
 This guide is used for referencing notes on HTML, CSS, JavaScript, and GIT. Reference this guide if you would like to see how we learned to use JS. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+## Credits
 
-![alt text](assets/images/screenshot.png)
-
-## N/A
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
